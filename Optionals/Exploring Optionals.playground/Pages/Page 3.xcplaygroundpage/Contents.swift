@@ -12,6 +12,7 @@
  What is the result?
  */
 // Type the code below this line...
+var x: Int?
 
 /*:
  
