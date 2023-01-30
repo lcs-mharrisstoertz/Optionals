@@ -16,6 +16,8 @@
  What is the result?
  */
 // Type the code below this line
+//var myName: String
+//print(myName)
 
 
 /*:
@@ -37,10 +39,8 @@
  ![declare-optional](declare-optional.png)
  
  */
-// Type the second code example below...
-var myName: String?
-print(myName)
-
+var yourName: String?
+print(yourName)
 /*:
  
  Run the playground again.
