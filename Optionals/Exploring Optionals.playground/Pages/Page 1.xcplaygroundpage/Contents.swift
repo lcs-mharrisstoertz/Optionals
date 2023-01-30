@@ -38,7 +38,8 @@
  
  */
 // Type the second code example below...
-
+var myName: String?
+print(myName)
 
 /*:
  
